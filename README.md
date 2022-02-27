@@ -4,6 +4,6 @@ This is the Happy Trails Travel Agency website.All informtion about destinations
 
 {Version 1.0} Last Updated 26th Feb 2022
 
-Languages used - {**HTML , CSS **}
+Languages used - {**HTML **}
 
-**{ Licencing - MIT licence
+**This project is licensed under the terms of the MIT license.
